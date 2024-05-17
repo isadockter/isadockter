@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, with MongoDB and Node**
 
-- 👨‍💻 All of my projects are available at [www.isadockter.com](www.isadockter.com)
+- 👨‍💻 All of my projects are available <a href="https://www.isadockter.com" target="blank"> here </a>
 
 - 📫 How to reach me **isadockter@gmail.com**
 
