@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Isa Dockter</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="left">Hi 👋, I'm Isa Dockter</h1>
+<h3 align="left">A passionate frontend developer</h3>
+
+- 🌱 I’m currently learning **React, TypeScript, with MongoDB and Node**
+
+- 👨‍💻 All of my projects are available at [www.isadockter.com](www.isadockter.com)
+
+- 📫 How to reach me **isadockter@gmail.com**
+
+- ⚡ Fun fact **I love cats <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
